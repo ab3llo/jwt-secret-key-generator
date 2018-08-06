@@ -7,7 +7,7 @@ namespace JWTSecretKeyGenerator
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Press enter to generate secret key for: Money Budget Api");
+			Console.WriteLine("Press enter to generate secret key");
 
 			ConsoleKeyInfo keyPressed = Console.ReadKey();
 
